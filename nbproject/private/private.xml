@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/java/cnpm/src/java/dao/ProductDAOImpl.java</file>
+            <file>file:/D:/java/cnpm/src/java/model/User.java</file>
+            <file>file:/D:/java/cnpm/web/images/7.png</file>
+            <file>file:/D:/java/cnpm/test/test.java</file>
+            <file>file:/D:/java/cnpm/src/java/controller/LoginServlet.java</file>
+            <file>file:/D:/java/cnpm/src/java/dao/UserDAO.java</file>
+            <file>file:/D:/java/cnpm/web/login.jsp</file>
+            <file>file:/D:/java/cnpm/web/index.jsp</file>
+            <file>file:/D:/java/cnpm/web/register.jsp</file>
+            <file>file:/D:/java/cnpm/src/java/dao/CategoryDAOImpl.java</file>
+            <file>file:/D:/java/cnpm/src/java/dao/ProductDAO.java</file>
+            <file>file:/D:/java/cnpm/src/java/controller/RegisterServlet.java</file>
+            <file>file:/D:/java/cnpm/src/java/dao/CategoryDAO.java</file>
+            <file>file:/D:/java/cnpm/src/java/controller/History.java</file>
+            <file>file:/D:/java/cnpm/src/java/dao/UserDAOImpl.java</file>
+            <file>file:/D:/java/cnpm/src/java/model/Product.java</file>
+            <file>file:/D:/java/cnpm/src/java/controller/GioHangServlet.java</file>
+            <file>file:/D:/java/cnpm/src/java/dao/HistoryDAOImpl.java</file>
+            <file>file:/D:/java/cnpm/src/java/controller/AddProduct.java</file>
+            <file>file:/D:/java/cnpm/web/admin.jsp</file>
+            <file>file:/D:/java/cnpm/src/java/dao/DBConnect.java</file>
+            <file>file:/D:/java/cnpm/src/java/controller/LogoutServlet.java</file>
+            <file>file:/D:/java/cnpm/src/java/controller/ResetPassword.java</file>
+        </group>
+    </open-files>
+</project-private>
